@@ -57,6 +57,6 @@ I'm a passionate frontend developer from India, always ready to explore and buil
 - Email: [snehalshirture254@gmail.com](mailto:snehalshirture254@gmail.com)
 - Twitter: [@shirture_snehal](https://twitter.com/@shirture_snehal)
 - LinkedIn: [Snehal Shirture](https://linkedin.com/in/snehalshirture)
-- YouTube: [Indian Orator](https://www.youtube.com/c/indian_orator)
+- YouTube: [Indian_Orator](https://www.youtube.com/c/indian_orator)
 
 Let's connect and build something amazing! 🚀
